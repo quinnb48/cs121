@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 815 words in length.
+
+There are 370 distinct words used in that text.
+
+The top 100 ranked words (with their frequencies) are:
+1. the:49, 2. and:33, 3. of:20, 4. in:20, 5. a:19, 6. she:17, 7. to:14, 8. on:13, 9. my:12, 10. for:11, 11. her:10, 12. it:10, 13. that:9, 14. but:8, 15. ship:8, 16. is:8, 17. down:7, 18. all:7, 19. from:7, 20. as:7, 21. with:7, 22. i:6, 23. they:6, 24. rock:6, 25. their:5, 26. scylla:5, 27. hands:5, 28. not:5, 29. was:4, 30. company:4, 31. water:4, 32. forth:4, 33. up:4, 34. might:4, 35. hollow:4, 36. even:4, 37. cliff:4, 38. were:4, 39. no:4, 40. there:4, 41. me:4, 42. sea:3, 43. them:3, 44. men:3, 45. then:3, 46. be:3, 47. sucks:3, 48. thou:3, 49. out:3, 50. each:3, 51. long:3, 52. six:3, 53. would:3, 54. into:3, 55. his:3, 56. an:3, 57. cave:3, 58. feet:3, 59. or:3, 60. man:3, 61. other:3, 62. writhing:2, 63. deeps:2, 64. troubled:2, 65. through:2, 66. salt:2, 67. we:2, 68. toward:2, 69. eyes:2, 70. seen:2, 71. caught:2, 72. hold:2, 73. fear:2, 74. so:2, 75. hour:2, 76. bane:2, 77. thy:2, 78. none:2, 79. when:2, 80. wise:2, 81. terrible:2, 82. day:2, 83. thrice:2, 84. charybdis:2, 85. mighty:2, 86. beneath:2, 87. great:2, 88. first:2, 89. by:2, 90. hard:2, 91. have:2, 92. take:2, 93. anywhere:2, 94. fishes:2, 95. far:2, 96. black:2, 97. head:2, 98. hath:2, 99. dreadful:2, 100. than:2
+
+Among its 370 words, 249 of them appear exactly once.
